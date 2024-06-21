@@ -93,6 +93,5 @@ object dataStructures{
     // 4) LAZY INITIALISATION (must be val)
     lazy val donuts: Int = 100
     println(donuts * 5)
-
   }
 }
